@@ -1,0 +1,24 @@
+{
+  "name": "babeljs-project",
+  "version": "1.0.0",
+  "description": "Mocking project using babeljs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "babeljs",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

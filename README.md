@@ -1,2 +1,2 @@
 # babeljs-project
-Babeljs mock project
+This project is a mocking project for Babeljs.
